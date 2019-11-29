@@ -25,3 +25,9 @@ Different Use cases (How Student/ Admin will interact with the system):
     4) Donate book
    
    
+ Tech Stack
+   1) Python = 
+   2) Django = 
+   3) MySql  = 
+   
+ 

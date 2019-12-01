@@ -26,8 +26,8 @@ Different Use cases (How Student/ Admin will interact with the system):
    
    
  Tech Stack
-   1) Python = 
-   2) Django = 
-   3) MySql  = 
+   1) Python = 3.5.7
+   2) Django = 2.2
+    
    
  

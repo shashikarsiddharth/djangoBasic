@@ -1,1 +1,1 @@
-Basic Django Demo for learning!
+Basic Django Apps for learning!
